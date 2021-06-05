@@ -1,2 +1,2 @@
-# Snake-Game
-Jogo criado para o bootcamp da DIO
+SNAKE GAME
+Jogo feito para o bootcamp da DIO como projeto final
